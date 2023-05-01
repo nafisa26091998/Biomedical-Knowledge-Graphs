@@ -1,5 +1,5 @@
 # Biomedical-Knowledge-Graphs
-"Combination of OCR, named entity linking, relation extraction and external enrichment databases to construct a biomedical knowledge graphs."
+"Combination of OCR, named entity linking, relation extraction and linking entities to target knowledge base, to construct a biomedical knowledge graphs."
 
 A python project that allows you to parse a research paper in PDF format, extract entities and relationships, link the entities with present target knowledge bases (ontologies) and create a knowledge graph for the same.
 
